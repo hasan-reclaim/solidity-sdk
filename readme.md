@@ -85,6 +85,13 @@ EVM smart contract that enables minting of credentials on-chain through a networ
 | Semaphore         | 0x4b11e09dC8b0AE67ba3795205eeAf51a3BBc19fc |
 | SemaphoreVerifier | 0xd6534f52CEB3d0139b915bc0C3278a94687fA5C7 |
 
+### Aurora
+
+| Contract          | Address                                    |
+| ----------------- | ------------------------------------------ |
+| Reclaim           | 0xF90085f5Fd1a3bEb8678623409b3811eCeC5f6A5 |
+| Semaphore         | 0xe79A453bD088F4A58656b315a7C1f8Ea3473CCf1 |
+| SemaphoreVerifier | 0x88cEd91D4966D82912774B9fdf9ca4E065881a91 |
 
 
 ## Commands
